@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Butter",
+  "base_artist": "BTS (방탄소년단)",
+  "createdAt": "2025-12-09T11:34:21.410813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Butter",
+      "artist": "BTS",
+      "has_synced": true,
+      "path": "select/01_Butter_BTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bread And Butter",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/02_Bread_And_Butter_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bread And Butter (UK Bonus Track)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_Bread_And_Butter_(UK_Bonus_Track)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Butter",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/04_Butter_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Peanut Butter",
+      "artist": "La Chat",
+      "has_synced": false,
+      "path": "select/05_Peanut_Butter_La_Chat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Ballad Of Butter Beans",
+      "artist": "Man Man",
+      "has_synced": false,
+      "path": "select/06_The_Ballad_Of_Butter_Beans_Man_Man.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Butter of 69",
+      "artist": "Butter 08",
+      "has_synced": false,
+      "path": "select/07_Butter_of_69_Butter_08.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Butter Cookie (Keep Me There) (Early Demo)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Butter_Cookie_(Keep_Me_There)_(Early_Demo)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "butter cookie (keep me there)",
+      "artist": "fleetwood mac",
+      "has_synced": true,
+      "path": "select/09_butter_cookie_(keep_me_there)_fleetwood_mac.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gunz N Butter (feat. Juicy J)",
+      "artist": "A$AP Rocky feat. Juicy J",
+      "has_synced": true,
+      "path": "select/10_Gunz_N_Butter_(feat._Juicy_J)_A$AP_Rocky_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gunz N Butter (feat. Juicy J)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/11_Gunz_N_Butter_(feat._Juicy_J)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Groove Is in the Heart (Peanut Butter mix)",
+      "artist": "Deee‐Lite",
+      "has_synced": false,
+      "path": "select/12_Groove_Is_in_the_Heart_(Peanut_Butter_mix)_Deee‐Lite.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Not Butter",
+      "artist": "Dillon Francis",
+      "has_synced": true,
+      "path": "select/13_Not_Butter_Dillon_Francis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Peanut Butter And Jelly",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/14_Peanut_Butter_And_Jelly_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Peanut Butter & Jelly",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/15_Peanut_Butter_&_Jelly_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cocoa Butter Kisses (feat. Vic Mensa & Twista)",
+      "artist": "Chance the Rapper feat. Vic Mensa & Twista",
+      "has_synced": true,
+      "path": "select/16_Cocoa_Butter_Kisses_(feat._Vic_Mensa_&_Twista)_Chance_the_Rapper_feat._Vic_Mensa_&_Twista.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cocoa Butter Kisses (ft. Vic Mensa & Twista)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/17_Cocoa_Butter_Kisses_(ft._Vic_Mensa_&_Twista)_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bread and Butter",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/18_Bread_and_Butter_Devo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Butter",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Butter_BTS.txt"
+    }
+  ]
+}
